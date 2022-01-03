@@ -1,6 +1,7 @@
 import "./App.css";
 import R003ImportComponent from "./R003_ImportComponent";
 import R004LifecycleEx from "./R004_LifecycleEx";
+import R005Constructor from "./R005Constructor";
 function App() {
   return (
     <div>
@@ -8,6 +9,7 @@ function App() {
       <p>HTML적용</p>
       <R003ImportComponent></R003ImportComponent>
       <R004LifecycleEx></R004LifecycleEx>
+      <R005Constructor></R005Constructor>
     </div>
   );
 }
