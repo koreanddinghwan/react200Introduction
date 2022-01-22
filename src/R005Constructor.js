@@ -10,7 +10,7 @@ export default class R005Constructor extends Component {
     console.log("3. render Call");
     return (
       <div>
-        <h2>[This is constructor function]</h2>
+        <h2>[This is constructor functionR005]</h2>
       </div>
     );
   }
